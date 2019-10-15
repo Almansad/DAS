@@ -1,0 +1,31 @@
+-Se requiere una intefaz centralizada para la gestion de llamadas de emergencia. 
+-Se requiere que el sistema deba gestionar elementos activos de emergencia
+-Debe de monitorizar las ermegencias en curso
+-Monitorizar sistemas de video-vigilanxia
+-Monitorizar las comunicaciones entre diferentes subsistemas
+-Se necesita acceder a los datos de las unidades activas
+-acceso a las camaras desde diferentes lugares
+-Envio de informacion a tiempo real
+-Se requiere que el sistema cuente con un gestor de camaras remotas.
+-El sistema podra asignar y monitorizar distintos tipos de recursos.
+-El sistema contara con un algoritmo para calcular la ruta mas rapida para los equipos de emergencia.
+-El sistema contara con distintos tipos de usuarios (Administrador del sistema, operarios de emergencias, operarios de unidades
+activas)
+-Los usuarios reciben informacion en tiempo real del sistema. 
+-El sistema contara con una cola de llamadas con un rango de entre 15 y 20 llamadas simultanea. //poner como una restriccion
+-Se indentificara la llamada con un numero (monitor) y la voz (centro de operaciones)
+-El sistema distribuirá las llamadas a los operadores disponibles
+-El sistema contara con sensores repartidos geograficamente que envia informacion a un centro remoto.
+-Este centro enviara un SMS y una alerta al sistema de emergencia.
+-El sistema debera gestionar hasta 20 eventos de forma simultanea en tiempo real que estaran priorizados.
+-Diversos nodos funcionales del sistema podrán atender las diferentes peticiones de los usuarios.
+-El sistema podra pre-asignar unidades activas.
+-El sistema cubre una region que incluye  ciudades, pueblos y costa.
+-EL sistema se coordina con las unidades de policía y Unidad Militar de Emergencias //poner como una restriccion
+-El sistema permite conexiones internacionales.
+-El sistema dispone de un modulo de traduccion textual en tiempo real.
+-El sistema contara con noticias a tiempo real de los sucesos.
+-Los usuarios podran subscribirse a estas noticias.
+-Las noticias se actualizaran segun el tipo de usuario.
+-El sistema dispone de una unica interfaz para todos los usuarios.
+-De esta intefaz se podra acceder a las distintas interfaces segun el tipo de usuario.
