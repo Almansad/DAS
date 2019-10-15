@@ -1,11 +1,11 @@
--Se requiere una intefaz centralizada para la gestion de llamadas de emergencia. 
--Se requiere que el sistema deba gestionar elementos activos de emergencia
--Debe de monitorizar las ermegencias en curso
--Monitorizar sistemas de video-vigilanxia
--Monitorizar las comunicaciones entre diferentes subsistemas
--Se necesita acceder a los datos de las unidades activas
--acceso a las camaras desde diferentes lugares
--Envio de informacion a tiempo real
+﻿+Se requiere una intefaz centralizada para la gestion de llamadas de emergencia. 
++Se requiere que el sistema deba gestionar elementos activos de emergencia
++Debe de monitorizar las ermegencias en curso
++Monitorizar sistemas de video-vigilanxia
++Monitorizar las comunicaciones entre diferentes subsistemas
++Se necesita acceder a los datos de las unidades activas
++acceso a las camaras desde diferentes lugares
++Envio de informacion a tiempo real
 -Se requiere que el sistema cuente con un gestor de camaras remotas.
 -El sistema podra asignar y monitorizar distintos tipos de recursos.
 -El sistema contara con un algoritmo para calcular la ruta mas rapida para los equipos de emergencia.
