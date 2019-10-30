@@ -10,5 +10,5 @@
 * [Problemas y riesgos](https://uporto-my.sharepoint.com/:w:/g/personal/up201503342_ms_uporto_pt/EYbUL7LwJGhAtTZKJAeP48cBRZpt9LGnjN_POL7slQUQag?e=DMlqDD)
 
 ##### Iteracion 2:
-* [Decisiones](https://uporto-my.sharepoint.com/:w:/g/personal/up201503342_ms_uporto_pt/EVOf-LbR9ytKoeJ-xEs4p4YBLtbUeSmcc-kfBHxTa6k3nA?rtime=NXlzUNFW10g)	
+* [Decisiones](https://uporto-my.sharepoint.com/:w:/g/personal/up201503342_ms_uporto_pt/ETV6J2Pbp3lJn6utIAwupMQBvRDTGCx1uhvWIM8n3mNSjg?e=rIFn1x)	
 * [Problemas y riesgos](https://uporto-my.sharepoint.com/:w:/g/personal/up201503342_ms_uporto_pt/EYbUL7LwJGhAtTZKJAeP48cBRZpt9LGnjN_POL7slQUQag?e=DMlqDD)
