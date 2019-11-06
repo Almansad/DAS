@@ -11,4 +11,4 @@
 
 ##### Iteracion 2:
 * [Decisiones](https://uporto-my.sharepoint.com/:w:/g/personal/up201503342_ms_uporto_pt/ETV6J2Pbp3lJn6utIAwupMQBvRDTGCx1uhvWIM8n3mNSjg?e=rIFn1x)	
-* [Problemas y riesgos](https://uporto-my.sharepoint.com/:w:/g/personal/up201503342_ms_uporto_pt/EYbUL7LwJGhAtTZKJAeP48cBRZpt9LGnjN_POL7slQUQag?e=DMlqDD)
+* [Problemas y riesgos](https://uporto-my.sharepoint.com/:w:/g/personal/up201503342_ms_uporto_pt/EQDRi7CXFeBGoos7S3BZm_wBfdVJSlk9JVK3G9Qgugl2GA?e=B97ime)
