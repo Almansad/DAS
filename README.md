@@ -8,7 +8,7 @@
 ##### Iteracion 1:
 * [Decisiones](https://uporto-my.sharepoint.com/:w:/g/personal/up201503342_ms_uporto_pt/EVOf-LbR9ytKoeJ-xEs4p4YBLtbUeSmcc-kfBHxTa6k3nA?rtime=NXlzUNFW10g)	
 * [Problemas y riesgos](https://uporto-my.sharepoint.com/:w:/g/personal/up201503342_ms_uporto_pt/EYbUL7LwJGhAtTZKJAeP48cBRZpt9LGnjN_POL7slQUQag?e=DMlqDD)
-* [Diagramas](https://alumnosurjces-my.sharepoint.com/personal/d_tejero_2017_alumnos_urjc_es/_layouts/15/doc.aspx?sourcedoc={0ea4304c-2f7d-4698-9783-6105e82ea376}&action=edit)
+* [Diagramas](https://alumnosurjces-my.sharepoint.com/:w:/g/personal/d_tejero_2017_alumnos_urjc_es/EUwwpA59L5hGl4NhBeguo3YBhX5TqDYijxZvDDvChGmWRQ?e=Akyy0u)
 
 ##### Iteracion 2:
 * [Decisiones](https://uporto-my.sharepoint.com/:w:/g/personal/up201503342_ms_uporto_pt/ETV6J2Pbp3lJn6utIAwupMQBvRDTGCx1uhvWIM8n3mNSjg?e=rIFn1x)	
