@@ -14,3 +14,5 @@
 * [Decisiones](https://uporto-my.sharepoint.com/:w:/g/personal/up201503342_ms_uporto_pt/ETV6J2Pbp3lJn6utIAwupMQBvRDTGCx1uhvWIM8n3mNSjg?e=rIFn1x)	
 * [Problemas y riesgos](https://uporto-my.sharepoint.com/:w:/g/personal/up201503342_ms_uporto_pt/EQDRi7CXFeBGoos7S3BZm_wBfdVJSlk9JVK3G9Qgugl2GA?e=B97ime)
 * [Diagramas](https://alumnosurjces-my.sharepoint.com/:w:/g/personal/d_tejero_2017_alumnos_urjc_es/EYrdYFxAOAxKrmOQ0aOxsFsBhQTl5Qxsp6mM-dOerDNl6g?e=6SQbAR)
+
+##### Iteración 2:
