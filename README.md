@@ -19,3 +19,7 @@
 * [Decisiones](https://alumnosurjces-my.sharepoint.com/:w:/g/personal/d_tejero_2017_alumnos_urjc_es/Ec1VrfK_pGBAoW50S_8N_XsBJX7JDjjvVi0Ek_v2uSBE5A?e=1CXJkZ)
 * [Problemas y riesgos](https://alumnosurjces-my.sharepoint.com/:w:/g/personal/d_tejero_2017_alumnos_urjc_es/Ed2UgyxpciNOo9AhWfUwIHkB1Dub-FAD5hQHtDNYu18PNQ?e=gsCQyZ)
 * [Diagramas](https://alumnosurjces-my.sharepoint.com/:w:/g/personal/d_tejero_2017_alumnos_urjc_es/EQ03rS93YD1GhmhRnJdZm1oBwBvqpuYDdaMjWyfj0RY6Aw?e=rxxvhn)
+
+
+#### Memoria:
+(https://alumnosurjces-my.sharepoint.com/:w:/g/personal/d_tejero_2017_alumnos_urjc_es/EVJbQMqFx3hOpWOB8JFg4cMBj7BtcBpyV0rZZgEVyTHUdQ?e=qN2Gl6)
